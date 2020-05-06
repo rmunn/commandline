@@ -21,6 +21,7 @@
 		<PackageLicenseFile>License.md</PackageLicenseFile>
 		<PackageIcon>CommandLine20.png</PackageIcon>
 		<PackageProjectUrl>https://github.com/commandlineparser/commandline</PackageProjectUrl>
+		<RepositoryUrl>https://github.com/rmunn/commandline</RepositoryUrl>
 		<PackageTags>command line;commandline;argument;option;parser;parsing;library;syntax;shell</PackageTags>
 		<PackageReleaseNotes>https://github.com/commandlineparser/commandline/blob/master/CHANGELOG.md</PackageReleaseNotes>
 		<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
